@@ -1,0 +1,12 @@
+table,th,td {
+    border:1px solid; margin-left: auto; margin-right: auto; 
+}
+td {
+        background-color:rgb(200, 252, 121) ;
+}
+h1 { 
+    text-align: center;
+}
+input.right {
+    font-weight: 800; float:right; font-size: larger;
+}
